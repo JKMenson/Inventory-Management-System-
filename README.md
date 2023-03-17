@@ -1,2 +1,2 @@
 # Inventory-Management-System
-Inventory Management System with Visual Basic &amp; Excel. 
+This system is designed to add, delete and update stocks in the database.
